@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "start": "vite", 
-    "build": "vite build", 
+    "start": "vite",
+    "build": "vite build",
     "preview": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./.deploy.sh"
   },
   "keywords": [],
   "author": "",
