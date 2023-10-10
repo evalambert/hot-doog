@@ -1,0 +1,151 @@
+/* IMPORT BOOTSTRAP */
+@import "~bootstrap/scss/bootstrap";
+
+/* IMPORT FONT */
+@font-face {
+  font-family: "Drury";
+  src: url(../font/drury.ttf);
+}
+@font-face {
+  font-family: "Tiny";
+  src: url(../font/TINY5x3-140.woff);
+}
+@font-face {
+  font-family: "Jakko";
+  src: url(../font/Jaakko.otf);
+}
+
+$orange: #ff7c00;
+$beige: #dfd6ba;
+
+/* GÉNÉRAL */
+body {
+  font-family: "Drury";
+}
+.wrapper {
+  overflow-x: hidden;
+}
+
+/* FONT */
+.jakko {
+  font-family: "Jakko";
+  text-transform: uppercase;
+}
+.tiny {
+  font-family: "Tiny";
+  text-transform: uppercase;
+}
+.drury {
+  font-family: "Drury";
+  text-transform: none;
+}
+p {
+  font-size: 18px;
+  line-height: 1.3em;
+}
+
+/* BACKGROUND */
+.bg-orange {
+  background-color: $orange;
+}
+.bg-beige {
+  background-color: $beige;
+}
+
+/* HEADER */
+header h1 {
+  font-family: "Tiny";
+  color: #ff7c00;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  margin-top: 95px;
+}
+header h1.display-1.mb-0.text-uppercase {
+  font-size: 10em;
+}
+header .dog {
+  -webkit-text-stroke-width: 0;
+}
+/* MQ */
+@media screen and (max-width: 680px) {
+  header h1.display-1.mb-0.text-uppercase {
+    font-size: 6em;
+  }
+}
+
+/* COOKIES */
+#cb-cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 80%;
+  z-index: 999;
+  border-radius: 0;
+  display: none;
+  background-color: black;
+}
+/* FOOTER */
+.footer .logo {
+  height: 50px;
+  font-size: 35px;
+}
+/* MENU */
+.menu span.badge.badge-primary.badge-pill {
+  background-color: black;
+  display: block;
+  color: #dfd6ba;
+  border-radius: 0%;
+  font-family: "jakko";
+  font-size: 18px;
+}
+.menu .dot {
+  display: block; /* IE fix */
+  content: "";
+  flex: 1;
+  align-self: center;
+  border-bottom: 2px dotted #aaa;
+  margin: 0.5em 0.4em 0 0.4em;
+  height: 4px;
+}
+
+/* PHOTO */
+.photo .card-body {
+  background-color: #dfd6ba;
+  min-height: 220px;
+}
+.photo .pagination {
+  background-color: #dfd6ba;
+}
+.photo .page-link {
+  background-color: #dfd6ba;
+  border-color: black;
+  color: black;
+}
+.photo .page-link:hover {
+  background-color: #ff7c00;
+
+}
+.photo .page-link.active,
+.active > .page-link {
+  background-color: #ff7c00;
+}
+@media screen and (max-width: 680px) {
+  .photo .card-body {
+    min-height: auto;
+  }
+}
+
+/* CONTACT */
+.contact .form-control:focus {
+  background-color: #ff7c00;
+  box-shadow: 0 0 0 0.25rem rgba(253, 117, 13, 0.25);
+}
+.contact .btn:hover {
+  background-color: #ff7c00;
+}
+.contact .page-link:focus {
+  box-shadow: 0 0 0 0.25rem rgba(253, 117, 13, 0.25);
+}
+.contact .page-link:hover {
+  background-color: #ff7c00;
+}
