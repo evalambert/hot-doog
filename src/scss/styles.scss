@@ -109,28 +109,27 @@ header .dog {
 }
 
 /* PHOTO */
-.photo .card-body {
+.galerie .card-body {
   background-color: #dfd6ba;
   min-height: 220px;
 }
-.photo .pagination {
+.galerie .pagination {
   background-color: #dfd6ba;
 }
-.photo .page-link {
+.galerie .page-link {
   background-color: #dfd6ba;
   border-color: black;
   color: black;
 }
-.photo .page-link:hover {
+.galerie .page-link:hover {
   background-color: #ff7c00;
-
 }
-.photo .page-link.active,
+.galerie .page-link.active,
 .active > .page-link {
   background-color: #ff7c00;
 }
 @media screen and (max-width: 680px) {
-  .photo .card-body {
+  .galerie .card-body {
     min-height: auto;
   }
 }

@@ -31,21 +31,21 @@ export default {
         }
     },
     build: {
-        outDir: '../dist',
-        rollupOptions: {
-            input: {
-                main: resolve(root, 'index.html'),
-                menu: resolve(root, 'menu.html'),
-                contact: resolve(root, 'contact.html'),
-                restaurant: resolve(root, 'restaurant.html'),
-                galerie1: resolve(root, 'galerie-1.html'),
-                galerie2: resolve(root, 'galerie-2.html'),
-                galerie3: resolve(root, 'galerie-3.html')
-            },
-        },
+      outDir: '../dist',
+      rollupOptions: {
+          input: {
+              main: resolve(root, 'index.html'),
+              menu: resolve(root, 'menu.html'),
+              contact: resolve(root, 'contact.html'),
+              restaurant: resolve(root, 'restaurant.html'),
+              galerie1: resolve(root, 'galerie-1.html'),
+              galerie2: resolve(root, 'galerie-2.html'),
+              galerie3: resolve(root, 'galerie-3.html')
+          },
+      },
     },
     server: {
       port: 8080,
       hot: true
     }
-}
+} 
