@@ -1,8 +1,8 @@
-# 🏃‍♀️ CHALLENGE BOOTSTRAP
+# 🏃‍♀️ RESTAURANT CSS FRAMEWORK : HOT DOOG
 
 ## 🔗 LIEN PROJET
 
-[Lien vers mon projet](https://evalambert.github.io/restaurant-css-framework/ "lien projet restaurant")
+[https://evalambert.github.io/restaurant-css-framework/](https://evalambert.github.io/restaurant-css-framework/ "lien projet restaurant")
 
 ## 📌 FICHE ID.PROJET
 
@@ -29,18 +29,16 @@
 
 ## 🌐 TECHNO & LANGUAGES UTILISÉS
 
+- Html / Css
 - Bootstrap
-- npm
-- vite.js
+- Node.js
+- Npm
+- Vite.js
 - Sass
 
 ## ⏰ ÉTAT D'AVANCEMENT
 
-En cours de création… 🪚
-
-- Maquette desktop et mobile — OK
-- Installation vite + Sass — OK
-- Boostrap, en cours de création…
+Terminé 😝
 
 ## 👀 MAQUETTE
 
