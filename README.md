@@ -50,24 +50,14 @@ Terminé 😝
 
 - Page menu
   ![Maquette desktop - page menu](src/img/maquette-2.png)
-  ![Maquette desktop - page menu](src/img/maquette-3.png)
   ![Maquette mobile - page menu](src/img/maquette-4.png)
-  ![Maquette mobile - page menu](src/img/maquette-5.png)
 - Page photos
   ![Maquette desktop - page photos](src/img/maquette-6.png)
-  ![Maquette desktop - page photos](src/img/maquette-7.png)
-  ![Maquette desktop - page photos](src/img/maquette-8.png)
   ![Maquette mobile - page photos](src/img/maquette-9.png)
-  ![Maquette mobile - page photos](src/img/maquette-10.png)
 
 - Page restaurant
   ![Maquette desktop - page restaurant](src/img/maquette-11.png)
-  ![Maquette desktop - page restaurant](src/img/maquette-12.png)
-  ![Maquette desktop - page restaurant](src/img/maquette-13.png)
-  ![Maquette desktop - page restaurant](src/img/maquette-14.png)
   ![Maquette mobile - page restaurant](src/img/maquette-15.png)
-  ![Maquette mobile - page restaurant](src/img/maquette-16.png)
-  ![Maquette mobile - page restaurant](src/img/maquette-17.png)
 
 - Page contact
   ![Maquette desktop - page contact](src/img/maquette-19.png)
