@@ -89,6 +89,14 @@ header .dog {
   height: 50px;
   font-size: 35px;
 }
+
+/* MAP */
+@media screen and (max-width: 680px) {
+  .map{ 
+    height: 50vh;
+  }
+}
+
 /* MENU */
 .menu span.badge.badge-primary.badge-pill {
   background-color: black;
