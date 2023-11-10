@@ -6,11 +6,11 @@
 
 ## 📌 FICHE ID.PROJET
 
-- Contexte : Formation "Junior Developer" BeCode
-- Type : Challenge
-- Durée : 4 jours
-- Deadline: 09/10/23 - 09:00
-- Challenge en équipe : solo
+- **Contexte :** Formation "Junior Developer" BeCode
+- **Type :** Challenge
+- **Durée :** 4 jours
+- **Deadline :** 09/10/23 - 09:00
+- **Challenge en équipe :** solo
 
 ## 🎯 OBJECTIFS
 
