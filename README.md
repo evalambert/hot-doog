@@ -1,8 +1,8 @@
-# 🐕 HOT DOOG
+# 🌭 HOT DOOG
 
 ## 🔗 LIEN PROJET
 
-[https://evalambert.github.io/restaurant-css-framework/](https://evalambert.github.io/restaurant-css-framework/ "lien projet restaurant")
+[https://evalambert.github.io/hot-doog/](https://evalambert.github.io/hot-doog/ "lien projet restaurant")
 
 ## 📌 FICHE ID.PROJET
 
