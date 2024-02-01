@@ -54,7 +54,7 @@ import { defineConfig } from "vite";
 
 /* Vite config */
 export default defineConfig({
-  base: "/restaurant-css-framework/",
+  base: "/hot-doog/",
   root: path.resolve(__dirname, "src"),
   resolve: {
     alias: {
