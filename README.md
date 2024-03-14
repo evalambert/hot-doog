@@ -1,5 +1,7 @@
 # 🌭 HOT DOOG
 
+HOT D👀G 🌭 "Quand la passion du pain rencontre l'amour de la saucisse" Site vitrine d'un restaurant de Hot Dog artisanal   🌭
+
 ## 🔗 LIEN PROJET
 
 [https://evalambert.github.io/hot-doog/](https://evalambert.github.io/hot-doog/ "lien projet restaurant")
